@@ -12,4 +12,4 @@ Changes afetr making a New branch
 Changes afetr making a New branch
 
 
-here is a conflict
+Now i fixed the conflict and now i can push the changes
